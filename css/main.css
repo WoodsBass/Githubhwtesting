@@ -1,18 +1,13 @@
 /* Place CSS styles here */
 
 body{
-    color: deeppink; 
-    background-color: rgb(95, 0, 0);
+    color: rgb(147, 1, 79); 
+    background-color: rgb(240, 181, 229);
 }
 
 img{
-    width: 50%;
-text-align: center;
-}
-
-.shit-sand {
+    width: 40%;
     text-align: center;
-    font-size: larger;
 }
 
 h1 {
@@ -20,6 +15,83 @@ h1 {
     font-size: xx-large;
 }
 
+h2 {
+    text-align: center;
+}
+
+a {
+    color: darkmagenta;
+}
+
+.column1 {
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    font-size: xx-large;
+}
+
+.column2 {
+align-items: center;
+margin-left: 50px;
+}
+
+.column3 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.column4 {
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.column5 {
+    align-items: center;
+    margin-left: 50px; 
+}
+
+.column6 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.column7 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.column8 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.column9 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.catalyst {
+    text-align: center;
+}
+
+.BUY-HER {
+    text-align: center;
+}
+
 .Barbie-fire {
     text-align: center;
+}
+
+.HOW-TO-HELP {
+text-align: inherit;
+}
+
+.hottie {
+    color: crimson;
+    align-items: center;
+    margin-left: 50px;
+
 }
